@@ -1,0 +1,60 @@
+[tensor(2), tensor(8), tensor(9), tensor(4), tensor(11), tensor(5), tensor(1), tensor(0), tensor(12), tensor(10), tensor(6), tensor(3), tensor(7)]
+tensor([[ 2,  3,  8,  9,  6, 10,  7, 12, 11,  4,  5,  0,  1, -1, -1, -1, -1, -1,
+         -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+         -1, -1, -1, -1, -1, -1, -1, -1, -1]], device='cuda:0')
+[tensor(9), tensor(7), tensor(8), tensor(0), tensor(4), tensor(1), tensor(3), tensor(6), tensor(5), tensor(2)]
+tensor([[ 9,  2,  5,  3,  8,  7,  0,  6,  1,  4, -1, -1, -1, -1, -1, -1, -1, -1,
+         -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+         -1, -1, -1, -1, -1, -1, -1, -1, -1]], device='cuda:0')
+[tensor(0), tensor(3), tensor(5), tensor(7), tensor(6), tensor(8), tensor(4), tensor(2), tensor(12), tensor(11), tensor(1), tensor(9), tensor(10)]
+tensor([[10,  1,  9,  0, 12,  2, 11,  4,  3,  8,  5,  7,  6, -1, -1, -1, -1, -1,
+         -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+         -1, -1, -1, -1, -1, -1, -1, -1, -1]], device='cuda:0')
+[tensor(1), tensor(2), tensor(0)]
+tensor([[ 1,  2,  0, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+         -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+         -1, -1, -1, -1, -1, -1, -1, -1, -1]], device='cuda:0')
+[tensor(6), tensor(7), tensor(3), tensor(1), tensor(0), tensor(2), tensor(4), tensor(5)]
+tensor([[ 5,  6,  4,  7,  0,  1,  2,  3, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+         -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+         -1, -1, -1, -1, -1, -1, -1, -1, -1]], device='cuda:0')
+[tensor(8), tensor(7), tensor(2), tensor(17), tensor(15), tensor(16), tensor(5), tensor(6), tensor(4), tensor(3), tensor(11), tensor(9), tensor(10), tensor(0), tensor(1), tensor(13), tensor(12), tensor(14)]
+tensor([[ 8,  7,  9, 14, 12, 10,  1,  0, 13, 11,  2,  3,  4, 17, 16,  5, 15,  6,
+         -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+         -1, -1, -1, -1, -1, -1, -1, -1, -1]], device='cuda:0')
+[tensor(0), tensor(1), tensor(2), tensor(5), tensor(6), tensor(7), tensor(12), tensor(13), tensor(11), tensor(9), tensor(8), tensor(10), tensor(3), tensor(4), tensor(15), tensor(14), tensor(18), tensor(17), tensor(16), tensor(19)]
+tensor([[ 0,  1,  2,  3,  5,  4,  8,  6, 14, 15, 16, 17, 18, 19,  7,  9, 12, 10,
+         13, 11, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+         -1, -1, -1, -1, -1, -1, -1, -1, -1]], device='cuda:0')
+[tensor(0), tensor(3), tensor(1), tensor(4), tensor(8), tensor(15), tensor(5), tensor(14), tensor(7), tensor(2), tensor(6), tensor(13), tensor(11), tensor(9), tensor(12), tensor(10)]
+tensor([[ 9,  0, 11, 10, 12,  1,  6,  3,  2,  4,  7,  8, 13, 14, 15,  5, -1, -1,
+         -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+         -1, -1, -1, -1, -1, -1, -1, -1, -1]], device='cuda:0')
+[tensor(0), tensor(1), tensor(2), tensor(4), tensor(3), tensor(9), tensor(8), tensor(11), tensor(7), tensor(12), tensor(6), tensor(15), tensor(5), tensor(16), tensor(10), tensor(18), tensor(14), tensor(17), tensor(13)]
+tensor([[ 0,  1,  4,  2,  5,  7,  3, 14, 13, 18, 17, 16, 15,  6,  9,  8, 10, 11,
+         12, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+         -1, -1, -1, -1, -1, -1, -1, -1, -1]], device='cuda:0')
+[tensor(0), tensor(11), tensor(1), tensor(2), tensor(4), tensor(5), tensor(8), tensor(3), tensor(10), tensor(7), tensor(9), tensor(6)]
+tensor([[ 8,  9, 10,  6,  7,  0, 11,  3,  2,  1,  4,  5, -1, -1, -1, -1, -1, -1,
+         -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+         -1, -1, -1, -1, -1, -1, -1, -1, -1]], device='cuda:0')
+[tensor(13), tensor(3), tensor(14), tensor(5), tensor(1), tensor(10), tensor(9), tensor(12), tensor(11), tensor(7), tensor(8), tensor(6), tensor(0), tensor(2), tensor(4)]
+tensor([[14, 13,  4,  2,  3,  5,  6,  0,  8,  7,  1,  9, 10, 11, 12, -1, -1, -1,
+         -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+         -1, -1, -1, -1, -1, -1, -1, -1, -1]], device='cuda:0')
+[tensor(8), tensor(3), tensor(0), tensor(2), tensor(1), tensor(6), tensor(7), tensor(4), tensor(5)]
+tensor([[ 5,  8,  4,  3,  0,  2,  1,  6,  7, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+         -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+         -1, -1, -1, -1, -1, -1, -1, -1, -1]], device='cuda:0')
+[tensor(1), tensor(3), tensor(9), tensor(6), tensor(10), tensor(11), tensor(14), tensor(8), tensor(13), tensor(7), tensor(12), tensor(0), tensor(4), tensor(5), tensor(2)]
+tensor([[ 1,  3,  5,  0,  4, 12,  2,  9,  6,  7, 13, 10,  8, 14, 11, -1, -1, -1,
+         -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+         -1, -1, -1, -1, -1, -1, -1, -1, -1]], device='cuda:0')
+[tensor(4), tensor(5), tensor(11), tensor(19), tensor(20), tensor(14), tensor(8), tensor(22), tensor(16), tensor(6), tensor(7), tensor(21), tensor(15), tensor(9), tensor(12), tensor(10), tensor(13), tensor(17), tensor(0), tensor(18), tensor(3), tensor(1), tensor(2)]
+tensor([[ 2, 18,  4,  3, 17,  1,  0, 10,  5,  9, 11, 13, 12, 19, 20, 14,  8,  6,
+          7, 15, 16, 21, 22, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+         -1, -1, -1, -1, -1, -1, -1, -1, -1]], device='cuda:0')
+[tensor(9), tensor(17), tensor(18), tensor(19), tensor(22), tensor(2), tensor(1), tensor(7), tensor(5), tensor(4), tensor(6), tensor(8), tensor(15), tensor(11), tensor(10), tensor(0), tensor(13), tensor(14), tensor(21), tensor(20), tensor(16), tensor(3), tensor(12)]
+tensor([[ 9, 16, 17, 18, 19, 20, 21, 22, 10,  2, 12, 11, 14, 13,  3,  1,  0,  7,
+          5,  4,  6,  8, 15, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
+         -1, -1, -1, -1, -1, -1, -1, -1, -1]], device='cuda:0')
