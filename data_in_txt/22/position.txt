@@ -1,0 +1,7 @@
+tensor([-10.,  10., -14.], dtype=torch.float64)
+tensor([-10.0000,  -7.8000, -14.0000], dtype=torch.float64)
+tensor([-10.0000,  27.8000, -14.0000], dtype=torch.float64)
+tensor([  7.8000,  10.0000, -14.0000], dtype=torch.float64)
+tensor([-20.,  10., -30.], dtype=torch.float64)
+tensor([-10.0000,  10.0000, -39.8000], dtype=torch.float64)
+tensor([-17.,  10.,   2.], dtype=torch.float64)
