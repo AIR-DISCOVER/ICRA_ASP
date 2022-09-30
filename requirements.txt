@@ -1,0 +1,18 @@
+brotlipy==0.7.0
+certifi==2021.10.8
+cffi @ file:///opt/conda/conda-bld/cffi_1642701102775/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+conda==4.11.0
+conda-content-trust @ file:///tmp/build/80754af9/conda-content-trust_1617045594566/work
+conda-package-handling @ file:///tmp/build/80754af9/conda-package-handling_1618262147379/work
+cryptography @ file:///tmp/build/80754af9/cryptography_1639414572950/work
+idna @ file:///tmp/build/80754af9/idna_1637925883363/work
+pycosat==0.6.3
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1635333100036/work
+PySocks @ file:///tmp/build/80754af9/pysocks_1605305812635/work
+requests @ file:///opt/conda/conda-bld/requests_1641824580448/work
+ruamel-yaml-conda @ file:///tmp/build/80754af9/ruamel_yaml_1616016711199/work
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+tqdm @ file:///tmp/build/80754af9/tqdm_1635330843403/work
+urllib3==1.26.7
