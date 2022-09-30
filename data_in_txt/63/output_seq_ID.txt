@@ -1,0 +1,1 @@
+tensor([4, 3, 2, 7, 1, 0, 6, 5], dtype=torch.int32)
