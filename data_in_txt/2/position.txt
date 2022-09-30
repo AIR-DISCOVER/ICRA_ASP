@@ -1,0 +1,8 @@
+tensor([ 10., -10., -54.], dtype=torch.float64)
+tensor([ 10.0000, -10.0000, -62.0000], dtype=torch.float64)
+tensor([ 20.0000, -10.0000, -71.8000], dtype=torch.float64)
+tensor([  0.0000, -10.0000, -71.8000], dtype=torch.float64)
+tensor([  0., -10.,   2.], dtype=torch.float64)
+tensor([ 1.6000e-04, -4.0000e+01,  2.0000e+00], dtype=torch.float64)
+tensor([  0., -20., -14.], dtype=torch.float64)
+tensor([  0., -10., -38.], dtype=torch.float64)
