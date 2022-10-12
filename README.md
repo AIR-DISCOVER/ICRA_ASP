@@ -1,6 +1,6 @@
 # ICRA_ASP (Planning Assembly Sequence with Graph Transformer)
 
-Submited to International Conference on Robotics and Automation 2023. Paper created by Lin Ma, Jiangtao Gong, Hao Xu, Hao Chen, Hao Zhao, Wenbing Huang, Guyue Zhou from Institute for [AI Industry Research(AIR), Tsinghua University](https://air.tsinghua.edu.cn/).
+Submited to International Conference on Robotics and Automation 2023. Paper created by Lin Ma, Jiangtao Gong, Hao Xu, Hao Chen, Hao Zhao, Wenbing Huang, Guyue Zhou from Institute for [AI Industry Research(AIR), Tsinghua University](https://air.tsinghua.edu.cn/). Our paper is avaliable on (https://arxiv.org/abs/2210.05236)
 
 ## Introduction
 Assembly sequence planning (ASP) is the essential process for modern manufacturing, proven to be NP-complete thus its effective and efficient solution has been a challenge for researchers in the field.
