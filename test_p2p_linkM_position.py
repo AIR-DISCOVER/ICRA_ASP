@@ -371,6 +371,7 @@ for linkM, position_graph, position_seq, position_real, order in loader:
     position_seq[0, 1: -1, :] = -1  
     position = model(position_graph,  linkM, position_seq)
     predicted_next_position=position[0,0,:]
+    # beam search
     top_k_values, top_k_indices=top_k_in_masked(k, predicted_next_position,torch.tensor([]), position_graph)
     position_seq = position_seq.repeat(k, 1, 1)
     for kk in range(k):
